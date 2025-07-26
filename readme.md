@@ -1,4 +1,4 @@
-# 💻 QRCode & Password Generador
+# 💻 QRCode & Password Gerador
 Este projeto tem como objetivo fornecer uma ferramenta simples e interativa em linha de comando que permite ao usuário gerar um QR Code a partir de um link ou criar uma senha aleatória, tudo baseado na escolha do usuário.
 
 ## 💡 Funcionalidades Essenciais
